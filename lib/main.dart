@@ -1,4 +1,3 @@
-import 'package:covid19app/pages/pages_aboutdev.dart';
 import 'package:covid19app/pages/pages_kasus.dart';
 import 'package:flutter/material.dart';
 import 'package:covid19app/pages/pages_informasi.dart';
@@ -31,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _selectedIndex = 0;
 
-  final _layoutPage = [KasusPage(), Informasi(), Bantuan(),Aboutdev()];
+  final _layoutPage = [KasusPage(), Informasi(), Bantuan()];
   void _onTabItem(int index) {
     setState(() {
       _selectedIndex = index;
