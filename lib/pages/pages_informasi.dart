@@ -262,9 +262,7 @@ void showSimpleCustomDialog(BuildContext context) {
                     'Virus Corona atau severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) adalah virus yang menyerang sistem pernapasan. Penyakit karena infeksi virus ini disebut COVID-19. Virus Corona bisa menyebabkan gangguan pada sistem pernapasan, pneumonia akut, sampai kematian.\nsumber : https://www.alodokter.com/virus-corona',
                     style: TextStyle(),
                   ),
-                
                 ),
-               
               ],
             ),
           ),
@@ -291,7 +289,6 @@ void showSimpleCustomDialog(BuildContext context) {
                   ),
                 
                 ),
-               
               ],
             ),
           ),
@@ -319,7 +316,7 @@ void showSimpleCustomDialog(BuildContext context) {
                   ),
                 
                 ),
-               
+              
               ],
             ),
           ),
@@ -344,9 +341,7 @@ void showSimpleCustomDialog(BuildContext context) {
                     'Sampai saat ini, belum ada vaksin untuk mencegah infeksi virus Corona atau COVID-19. Oleh sebab itu, cara pencegahan yang terbaik adalah dengan menghindari faktor-faktor yang bisa menyebabkan Anda terinfeksi virus ini\nsumber : https://www.alodokter.com/virus-corona',
                     style: TextStyle(),
                   ),
-                
                 ),
-               
               ],
             ),
           ),
